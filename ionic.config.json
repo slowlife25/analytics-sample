@@ -1,0 +1,7 @@
+{
+  "name": "analytics-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
